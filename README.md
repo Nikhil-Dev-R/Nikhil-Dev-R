@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Nikhil Yadav!  
 ### 🚀 Android Developer | Kotlin | Java | Firebase | Jetpack  
 
@@ -65,7 +64,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 - LinkedIn: **[linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikhil-yadav-411758282?trk=contact-info)**  
 ---
 
-⚡ **Fun Fact:** I have solved **500+ coding problems** on **LeetCode and CodeChef**! 🚀  
+⚡ **Fun Fact:** I have solved **300+ coding problems** on **LeetCode and CodeChef**! 🚀  
 
 <!---
 Nikhil-Dev-R/Nikhil-Dev-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
