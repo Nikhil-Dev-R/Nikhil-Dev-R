@@ -36,13 +36,14 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 
 ---
 
-### 📝 Notes App  
+### 📝 R One
 > **A feature-rich notes application with categories, search, and encryption**  
-- Built with **Java, SQLite, and Material Design**  
-- Implemented **offline storage, encrypted notes, and intuitive UI**  
-- Reached **500+ downloads** in the first month  
+- Built with **Kotlin, Jetpack Compose and Material Design** 
+- 🔆 Weather Updates
+- 📰 Latest News
+- 📍 Location Services
 
-🔗 **[View Project](https://github.com/YourGitHub/NotesApp)**  
+🔗 **[View Project](https:)**  
 
 ---
 
