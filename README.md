@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** Kotlin | Java | Python  
+- **Languages:** Kotlin | Java | C++  
 - **Frameworks & Libraries:** Android SDK | Jetpack Components | Retrofit | Room Database  
 - **Tools & Platforms:** Android Studio | Git | Firebase | Postman | Gradle  
 - **Databases:** Firebase Firestore | SQLite | MySQL  
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 - Implemented **self-destructing messages, secure file sharing, and push notifications**  
 - **Enhanced privacy** with **AES encryption** for fully secure messaging  
 
-🔗 **[View Project](https://github.com/YourGitHub/SecretChatApp)**  
+🔗 **[View Project](https://github.com/Nikhil-Dev-R/SecretChatDemo)**  
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 - Implemented **authentication, real-time database, and notifications**  
 - Reduced admin workload by **50%** through automation  
 
-🔗 **[View Project](https://github.com/YourGitHub/SchoolManagementApp)**  
+🔗 **[View Project](https://github.com/Nikhil-Dev-R/SchoolManagement)**  
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 - 📰 Latest News
 - 📍 Location Services
 
-🔗 **[View Project](https:)**  
+🔗 **[View Project](https://github.com/Nikhil-Dev-R/R-One)**
 
 ---
 
