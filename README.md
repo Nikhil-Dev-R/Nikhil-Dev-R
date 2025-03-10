@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 - Implemented **self-destructing messages, secure file sharing, and push notifications**  
 - **Enhanced privacy** with **AES encryption** for fully secure messaging  
 
-🔗 **[View Project](https://github.com/Nikhil-Dev-R/SecretChatDemo)**  
+🔗 **[View Project](https://github.com/Nikhil-Dev-R/Secret-Chat-Demo)**  
 
 ---
 
