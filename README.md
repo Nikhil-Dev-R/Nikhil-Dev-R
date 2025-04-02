@@ -47,13 +47,6 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 
 ---
 
-## 📊 GitHub Stats  
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHub&layout=compact&theme=radical)  
-
----
-
 ## 🌱 What I'm Currently Learning  
 - **Jetpack Compose** for modern Android UI development  
 - **Advanced Firebase services** (Cloud Functions, Firestore rules)  
