@@ -67,11 +67,11 @@ Welcome to my GitHub! I’m an experienced **Android Developer** with a strong f
 ## 🌐 Connect With Me  
 - 💼 LinkedIn: [linkedin.com/in/nikhil-yadav-411758282](https://www.linkedin.com/in/nikhil-yadav-411758282?trk=contact-info)
 
----
+<!--
+SEO Keywords for Search Engine Optimization (not visible on GitHub profile):
 
-## 📈 SEO Keywords (for Search Engine Visibility)
-
-`Nikhil Yadav Android Developer` • `Jetpack Compose Developer` • `Firebase Kotlin Developer` • `Kotlin MVVM Projects` • `Secure Android Chat App` • `GitHub Android Developer Portfolio` • `Firebase Firestore App` • `Best Android Projects Kotlin` • `Jetpack Compose UI Expert` • `Android Developer GitHub India`
+Nikhil Yadav Android Developer, Jetpack Compose Developer, Firebase Kotlin Developer, Kotlin MVVM Projects, Secure Android Chat App, GitHub Android Developer Portfolio, Firebase Firestore App, Best Android Projects Kotlin, Jetpack Compose UI Expert, Android Developer GitHub India
+-->
 
 ---
 
