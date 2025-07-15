@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 
 ## 🔧 Tech Stack  
 - **Languages:** Kotlin | Java | C++  
-- **Frameworks & Libraries:** Android SDK | Jetpack Components | Retrofit | Room Database  
-- **Tools & Platforms:** Android Studio | Git | Firebase | Postman | Gradle  
-- **Databases:** Firebase Firestore | SQLite | MySQL  
+- **Frameworks & Libraries:** Android SDK | Jetpack Components | Retrofit 
+- **Tools & Platforms:** Android Studio | Git | Firebase | Docker | Gradle  
+- **Databases:** Firebase | SQLite | MySQL | Room Database  
 - **Other Skills:** RESTful APIs | UI/UX Design | Clean Architecture | Unit Testing  
 
 ---
@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm an **Android Developer** passionate about buil
 
 ---
 
-### 🎓 School Management System  
+### 🎓 ERP System  
 > **A complete school management app for handling student, teacher, and event data**  
 - Developed using **Kotlin, Firebase, and Jetpack Compose**  
 - Implemented **authentication, real-time database, and notifications**  
 - Reduced admin workload by **50%** through automation  
 
-🔗 **[View Project](https://github.com/Nikhil-Dev-R/SchoolManagement)**  
+🔗 **[View Project](https://github.com/Nikhil-Dev-R/ERP)**  
 
 ---
 
