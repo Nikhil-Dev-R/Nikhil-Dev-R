@@ -1,64 +1,82 @@
-# 👋 Hi, I'm Nikhil Yadav!  
-### 🚀 Android Developer | Kotlin | Java | Firebase | Jetpack  
+# 👋 Hi, I'm Nikhil Yadav — Android Developer  
+### 🚀 Kotlin | Jetpack Compose | Firebase | MVVM | Android Studio
 
-Welcome to my GitHub profile! I'm an **Android Developer** passionate about building **scalable and high-performance mobile applications**. I love writing clean and maintainable code, optimizing app performance, and exploring **modern Android development** with **Jetpack Compose, MVVM, and Firebase**.  
-
----
-
-## 🔧 Tech Stack  
-- **Languages:** Kotlin | Java | C++  
-- **Frameworks & Libraries:** Android SDK | Jetpack Components | Retrofit 
-- **Tools & Platforms:** Android Studio | Git | Firebase | Docker | Gradle  
-- **Databases:** Firebase | SQLite | MySQL | Room Database  
-- **Other Skills:** RESTful APIs | UI/UX Design | Clean Architecture | Unit Testing  
+Welcome to my GitHub! I’m an experienced **Android Developer** with a strong focus on **Jetpack Compose**, **MVVM architecture**, and **Firebase-powered apps**. I build secure, scalable, and user-friendly **Android mobile applications** that deliver great performance and seamless user experiences.
 
 ---
 
-## 📱 Featured Projects  
-
-### 🔒 Secret Chat App  
-> **A secure messaging app with end-to-end encryption using AES-256**  
-- Built with **Kotlin, Firebase Firestore, and WebSockets** for real-time chat  
-- Implemented **self-destructing messages, secure file sharing, and push notifications**  
-- **Enhanced privacy** with **AES encryption** for fully secure messaging  
-
-🔗 **[View Project](https://github.com/Nikhil-Dev-R/Secret-Chat-Demo)**  
+## 🔍 Why Choose Me as Your Android Developer?  
+- ✅ Over **300+ solved DSA problems** on **LeetCode, GFG, HackerRank, CodeChef**  
+- ✅ Passionate about **clean code**, **UI/UX design**, and **high-performance apps**  
+- ✅ Experienced with **real-time databases**, **cloud messaging**, and **REST APIs**
 
 ---
 
-### 🎓 ERP System  
-> **A complete school management app for handling student, teacher, and event data**  
-- Developed using **Kotlin, Firebase, and Jetpack Compose**  
-- Implemented **authentication, real-time database, and notifications**  
-- Reduced admin workload by **50%** through automation  
+## 💼 Tech Stack & Tools  
 
-🔗 **[View Project](https://github.com/Nikhil-Dev-R/ERP)**  
+### 🔹 **Languages**
+`Kotlin` | `Java` | `C++`
 
----
+### 🔹 **Frameworks & Libraries**
+`Android SDK` | `Jetpack Compose` | `Navigation` | `Retrofit` | `Room`
 
-### 📝 R One
-> **A feature-rich notes application with categories, search, and encryption**  
-- Built with **Kotlin, Jetpack Compose and Material Design** 
-- 🔆 Weather Updates
-- 📰 Latest News
-- 📍 Location Services
+### 🔹 **Platforms & Tools**
+`Android Studio` | `Firebase (Auth, Firestore, FCM)` | `Git` | `Gradle` | `Docker`
 
-🔗 **[View Project](https://github.com/Nikhil-Dev-R/R-One)**
+### 🔹 **Databases**
+`Firebase Realtime DB` | `Firestore` | `Room` | `MySQL` | `SQLite`
+
+### 🔹 **Other Skills**
+`MVVM Architecture` | `Clean Code Principles` | `Material Design` | `UI/UX Design` | `Unit Testing` | `RESTful APIs`
 
 ---
 
-## 🌱 What I'm Currently Learning  
-- **Jetpack Compose** for modern Android UI development  
-- **Advanced Firebase services** (Cloud Functions, Firestore rules)  
-- **CI/CD for Android** with GitHub Actions  
+## 📱 Featured Android Projects  
+
+### 🔒 Secret Chat App — Secure Messaging with AES Encryption  
+> A fully private **messaging app** built with **Kotlin**, **Firebase Firestore**, and **WebSockets**.  
+> Includes **AES-256 encryption**, **self-destructing messages**, and **secure file sharing**.
+
+🔗 [View Project](https://github.com/Nikhil-Dev-R/Secret-Chat-Demo)
 
 ---
 
-## 📫 Connect with Me  
-- LinkedIn: **[linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikhil-yadav-411758282?trk=contact-info)**  
+### 🎓 ERP System — School Management App  
+> A **Firebase-powered Android ERP app** built using **Jetpack Compose**, enabling admin/staff control over events, student data, and more.  
+> Boosted efficiency and reduced manual work with **realtime database & notifications**.
+
+🔗 [View Project](https://github.com/Nikhil-Dev-R/ERP)
+
 ---
 
-⚡ **Fun Fact:** I have solved **300+ coding problems** on **GFG, LeetCode, HackerRank and CodeChef**! 🚀  
+### 📝 R One — Notes App with Smart Features  
+> A **feature-rich note-taking app** using **Jetpack Compose**, supporting encryption, weather updates, and live news feed.  
+> Combines **Material Design**, **location services**, and smooth user experience.
+
+🔗 [View Project](https://github.com/Nikhil-Dev-R/R-One)
+
+---
+
+## 🌱 Currently Learning  
+- 🛠 **Jetpack Compose** for declarative UI  
+- 🔐 **Advanced Firebase** (Cloud Functions, Firestore Rules)  
+- ⚙️ **CI/CD pipelines** for Android using GitHub Actions  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 LinkedIn: [linkedin.com/in/nikhil-yadav-411758282](https://www.linkedin.com/in/nikhil-yadav-411758282?trk=contact-info)
+
+---
+
+## 📈 SEO Keywords (for Search Engine Visibility)
+
+`Nikhil Yadav Android Developer` • `Jetpack Compose Developer` • `Firebase Kotlin Developer` • `Kotlin MVVM Projects` • `Secure Android Chat App` • `GitHub Android Developer Portfolio` • `Firebase Firestore App` • `Best Android Projects Kotlin` • `Jetpack Compose UI Expert` • `Android Developer GitHub India`
+
+---
+
+## ⚡ Fun Fact  
+I’ve solved **300+ coding problems** across **LeetCode, GFG, HackerRank**, and **CodeChef**. Love building Android apps that solve real-world problems. 🚀
 
 <!---
 Nikhil-Dev-R/Nikhil-Dev-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
