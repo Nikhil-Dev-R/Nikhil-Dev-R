@@ -65,7 +65,7 @@ Welcome to my GitHub! I’m an experienced **Android Developer** with a strong f
 ---
 
 ## 🌐 Connect With Me 
-- LinkedIn(https://www.linkedin.com/in/nikhil-yadav-411758282?trk=contact-info)
+- LinkedIn(https://www.linkedin.com/in/nikhil-yadav-r01)
 - Medium(https://medium.com/@nikhilyadav01)
 
 <!--
